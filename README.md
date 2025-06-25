@@ -21,6 +21,11 @@ Welcome to my GitHub profile!
 - Java
 - C/C++
 - Prisma Cloud
+- AWS
+- GCP
+- Git
+- GitHub
+- BitBucket
 
 ## Projects
 
