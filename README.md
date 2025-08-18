@@ -12,6 +12,9 @@ Welcome to my GitHub profile!
 ---
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
+![Breakout Light](images/breakout-light.svg#gh-light-mode-only)
+![Breakout Dark](images/breakout-dark.svg#gh-dark-mode-only)
+
 ---
 
 ## Skills
@@ -21,6 +24,7 @@ Welcome to my GitHub profile!
 - Java
 - C/C++
 - Prisma Cloud
+- Veracode
 - AWS
 - GCP
 - Git
