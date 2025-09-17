@@ -15,12 +15,14 @@ Welcome to my GitHub profile!
 ---
 
 ## Skills
-
 - JavaScript
 - Python
 - Java
 - C/C++
 - Prisma Cloud
+- Veracode
+- SAST Scan
+- SCA Scan
 - AWS
 - GCP
 - Git
